@@ -175,7 +175,7 @@ h3{font-family:var(--f-display);font-weight:700;font-size:1.15rem;letter-spacing
 }
 .brand{display:flex;align-items:center;gap:.55rem;min-height:44px;font-family:var(--f-display);font-weight:800;letter-spacing:-.04em;font-size:1.1rem}
 .brand__logo{
-  display:block;height:86px;width:auto;max-width:min(94vw,440px);
+  display:block;height:96px;width:auto;max-width:min(104vw,460px);
   object-fit:contain;object-position:left center;flex:0 0 auto;
   transition:transform .7s var(--ease-back);
 }
@@ -809,7 +809,7 @@ button.ccard{cursor:pointer;width:100%;text-align:left;font-family:var(--f-body)
   .nav__link{padding:.6rem .78rem;font-size:.9rem}
   .nav__link::after{left:.78rem;right:.78rem}
   :root{--nav-h:72px}
-  .brand__logo{height:86px}
+  .brand__logo{height:96px}
   .section{padding:5.5rem 0}
   .h1{font-size:4.4rem}
   .hero__inner{gap:2rem}
