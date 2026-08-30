@@ -245,7 +245,7 @@ h3{font-family:var(--f-display);font-weight:700;font-size:1.15rem;letter-spacing
 }
 .drawer.open .drawer__links a{opacity:1;transform:none}
 .drawer__links a:active{background:#fff}
-.drawer__links a.active{color:var(--pink);background:#fff}
+.drawer__links a.active{color:var(--white);background:#fff}
 .drawer__links .num{font-family:var(--f-mono);font-size:.7rem;color:var(--muted);letter-spacing:.1em}
 .drawer__links li:nth-child(1) a{transition-delay:.10s}
 .drawer__links li:nth-child(2) a{transition-delay:.16s}
